@@ -1,39 +1,42 @@
 # Hey there, this is Harish 👋
 
-### 🌏 My Location
+### 🌏 Location
 
-Chennai, India 🇮🇳
+Vellore / Chennai, India 🇮🇳
 
-### 🎯 My Focus
+### 🎯 Focus Areas
 
-AI Engineering · Generative AI · Agentic AI · Backend Systems
+AI Engineering · Android App Development · Full Stack Development · Agentic AI
 
-### 💡 My Mindset
+### 💡 Mindset
 
-Build → Scale → Optimize → Repeat
+Build → Optimize → Scale → Repeat
 
 ### 🎓 Currently
 
-M.Sc. AI & ML Student @ VIT Vellore
+M.Sc. Artificial Intelligence & Machine Learning @ VIT Vellore
 
 ---
 
 ## 🚀 About Me
 
-I'm interested in:
+I'm passionate about building intelligent and scalable applications across AI, backend systems, and mobile development.
+
+### Interested In
 
 * 🤖 AI Engineering
 * 🧠 Generative AI & LLMs
 * 🔗 RAG Systems
-* ⚙️ Backend Development
+* 📱 Android App Development
+* ⚙️ Full Stack Development
 * 🧩 Multi-Agent Architectures
-* 🌐 API Development
+* 🌐 Backend APIs
 * 🌱 Open Source Contribution
 
-⚡ Fun Fact about me — I enjoy building systems from **0 → 1** and optimizing them until they scale 🚀
+⚡ I enjoy building products from **0 → 1**, optimizing workflows, and creating systems that solve real-world problems.
 
 📄 Published **2 IEEE Conference Papers**
-🏆 Received **Best Paper Award**
+🏆 Recipient of **Best Paper Award**
 
 ---
 
@@ -41,41 +44,34 @@ I'm interested in:
 
 ## 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-
----
+Python · JavaScript · SQL · C
 
 ## 🤖 AI / ML
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+PyTorch · TensorFlow · Transformers · LLMs · RAG · LangChain · NLP · Computer Vision
 
-`LLMs` · `RAG` · `LangChain` · `LangGraph` · `CrewAI` · `Transformers`
+## 📱 Mobile Development
 
----
+Android Studio · Firebase · SQLite · Flutter Basics
 
-## ⚙️ Tools & Platforms
+## ⚙️ Backend & Full Stack
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square\&logo=docker\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-555555?style=flat-square)
+FastAPI · Flask · REST APIs · API Integration
+
+## 🛠️ Tools & Platforms
+
+Git · Docker · MongoDB · MySQL · AWS · Firebase · VS Code
 
 ---
 
 # 🚀 Featured Projects
 
-| Project                       | Description                                       | Stack                       |
-| ----------------------------- | ------------------------------------------------- | --------------------------- |
-| 🤖 Legal RAG Chatbot          | AI-powered legal assistant with hybrid retrieval  | LangChain · FAISS · FastAPI |
-| 🛣️ Lane Line Detection Robot | YOLOv8-based TurtleBot3 lane & obstacle detection | YOLOv8 · ROS                |
-| 🧠 NLP Sentiment Analysis App | RoBERTa-powered Android sentiment app             | NLP · Android               |
-| 🌾 Farmer Assistance System   | Crop disease detection & expert platform          | Flask · CNN                 |
+| Project                       | Description                                      | Stack                       |
+| ----------------------------- | ------------------------------------------------ | --------------------------- |
+| 🤖 Legal RAG Chatbot          | AI-powered legal assistant with hybrid retrieval | LangChain · FAISS · FastAPI |
+| 🛣️ Lane Detection Robot      | YOLOv8-based lane & obstacle detection system    | YOLOv8 · ROS                |
+| 🧠 NLP Sentiment Analysis App | RoBERTa-powered Android sentiment app            | NLP · Android               |
+| 🌾 Farmer Assistance System   | Crop disease detection & expert platform         | Flask · CNN                 |
 
 ---
 
@@ -94,9 +90,10 @@ I'm interested in:
 # 🎯 Currently
 
 * 🔨 Building AI Agents & RAG Systems
-* 📚 Exploring Agentic AI workflows
-* 🌱 Contributing to AI & backend projects
-* ⚡ Always improving systems, workflows, and architecture
+* 📱 Exploring scalable Android applications
+* ⚙️ Improving backend architecture & APIs
+* 🌱 Contributing to real-world AI projects
+* ⚡ Continuously learning and optimizing
 
 ---
 
@@ -110,4 +107,4 @@ I'm interested in:
 
 ---
 
-> *"I love building scalable AI systems and continuously improving them — both in software and in life."*
+> *"I love building scalable applications — from AI systems to mobile apps — and continuously improving them every day."*
