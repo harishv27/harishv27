@@ -74,14 +74,15 @@ M.Sc. Artificial Intelligence & Machine Learning student at **VIT Vellore**, pas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harishv27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishv27&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harishv27&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishv27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=harishv27&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=harishv27&theme=tokyonight&hide_border=true"/>
 
 </div>
 
