@@ -1,110 +1,115 @@
-# Hey there, this is Harish 👋
+<div align="center">
 
-### 🌏 Location
+# Hey there, I'm Harish V 👋
 
-Vellore / Chennai, India 🇮🇳
+**AI Engineer · Android Developer · Full Stack · Backend**
 
-### 🎯 Focus Areas
+*Vellore / Chennai, India 🇮🇳*
 
-AI Engineering · Android App Development · Full Stack Development · Agentic AI
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=Build+%E2%86%92+Optimize+%E2%86%92+Scale+%E2%86%92+Repeat;AI+Engineer+%7C+Android+Dev+%7C+Full+Stack;Building+intelligent+%26+scalable+systems)
 
-### 💡 Mindset
-
-Build → Optimize → Scale → Repeat
-
-### 🎓 Currently
-
-M.Sc. Artificial Intelligence & Machine Learning @ VIT Vellore
+</div>
 
 ---
 
-## 🚀 About Me
+## 🎓 About Me
 
-I'm passionate about building intelligent and scalable applications across AI, backend systems, and mobile development.
+M.Sc. Artificial Intelligence & Machine Learning student at **VIT Vellore**, passionate about building intelligent and scalable applications across AI, backend systems, and mobile development.
 
-### Interested In
-
-* 🤖 AI Engineering
-* 🧠 Generative AI & LLMs
-* 🔗 RAG Systems
-* 📱 Android App Development
-* ⚙️ Full Stack Development
-* 🧩 Multi-Agent Architectures
-* 🌐 Backend APIs
-* 🌱 Open Source Contribution
-
-⚡ I enjoy building products from **0 → 1**, optimizing workflows, and creating systems that solve real-world problems.
-
-📄 Published **2 IEEE Conference Papers**
-🏆 Recipient of **Best Paper Award**
+- 🤖 **AI Engineering** — LLMs, RAG Systems, Agentic AI, NLP
+- 📱 **Android App Development** — Native Android, Firebase, SQLite
+- ⚙️ **Full Stack Development** — FastAPI, Flask, REST APIs
+- 🔬 Published **2 IEEE Conference Papers** · 🏆 **Best Paper Award** recipient
+- 🌱 I enjoy building products from **0 → 1** and solving real-world problems
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Languages
+**Languages**
 
-Python · JavaScript · SQL · C
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-## 🤖 AI / ML
+**AI / ML**
 
-PyTorch · TensorFlow · Transformers · LLMs · RAG · LangChain · NLP · Computer Vision
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-## 📱 Mobile Development
+**Mobile Development**
 
-Android Studio · Firebase · SQLite · Flutter Basics
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-## ⚙️ Backend & Full Stack
+**Backend & Tools**
 
-FastAPI · Flask · REST APIs · API Integration
-
-## 🛠️ Tools & Platforms
-
-Git · Docker · MongoDB · MySQL · AWS · Firebase · VS Code
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project                       | Description                                      | Stack                       |
-| ----------------------------- | ------------------------------------------------ | --------------------------- |
-| 🤖 Legal RAG Chatbot          | AI-powered legal assistant with hybrid retrieval | LangChain · FAISS · FastAPI |
-| 🛣️ Lane Detection Robot      | YOLOv8-based lane & obstacle detection system    | YOLOv8 · ROS                |
-| 🧠 NLP Sentiment Analysis App | RoBERTa-powered Android sentiment app            | NLP · Android               |
-| 🌾 Farmer Assistance System   | Crop disease detection & expert platform         | Flask · CNN                 |
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 **Legal RAG Chatbot** | AI-powered legal assistant with hybrid retrieval | LangChain · FAISS · FastAPI |
+| 🛣️ **Lane Detection Robot** | YOLOv8-based lane & obstacle detection system | YOLOv8 · ROS |
+| 🧠 **NLP Sentiment App** | RoBERTa-powered Android sentiment analysis app | NLP · Android Studio |
+| 🌾 **Farmer Assistance System** | Crop disease detection & expert platform | Flask · CNN |
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harishv27&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harishv27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishv27&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=harishv27&theme=tokyonight&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
-# 🎯 Currently
+## 🎯 Currently Working On
 
-* 🔨 Building AI Agents & RAG Systems
-* 📱 Exploring scalable Android applications
-* ⚙️ Improving backend architecture & APIs
-* 🌱 Contributing to real-world AI projects
-* ⚡ Continuously learning and optimizing
-
----
-
-# 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://harish-portfolio-psi.vercel.app/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harishv27)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/harishv27)
+- 🔨 Building AI Agents & RAG Systems
+- 📱 Exploring scalable Android applications
+- ⚙️ Improving backend architecture & APIs
+- 🌱 Contributing to real-world AI projects
 
 ---
 
-> *"I love building scalable applications — from AI systems to mobile apps — and continuously improving them every day."*
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harish-portfolio-psi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishv27)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harishv27)
+
+</div>
+
+---
+
+<div align="center">
+
+*"I love building scalable applications — from AI systems to mobile apps — and continuously improving them every day."*
+
+</div>
