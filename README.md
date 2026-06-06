@@ -70,19 +70,11 @@ M.Sc. Artificial Intelligence & Machine Learning student at **VIT Vellore**, pas
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harishv27&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishv27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=harishv27&theme=tokyonight&hide_border=true"/>
+[![Harish's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=harishv27&theme=tokyo-night&hide_border=true)](https://github.com/harishv27)
 
 </div>
 
