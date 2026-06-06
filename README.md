@@ -4,7 +4,7 @@
 
 **AI Engineer · Android Developer · Full Stack · Backend**
 
-*Vellore / Chennai, India 🇮🇳*
+*Vellore, Tamilnadu, India 🇮🇳*
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=Build+%E2%86%92+Optimize+%E2%86%92+Scale+%E2%86%92+Repeat;AI+Engineer+%7C+Android+Dev+%7C+Full+Stack;Building+intelligent+%26+scalable+systems)
 
