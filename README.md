@@ -19,13 +19,14 @@
 
 ## 🎓 About Me
 
-M.Sc. Artificial Intelligence & Machine Learning student at **VIT Vellore**, passionate about building intelligent and scalable applications across AI, backend systems, and mobile development.
+An AI Engineer with 2+ years of internship and research experience specializing in Generative AI, Machine Learning, and intelligent applications. Published author and award-winning AI researcher dedicated to building scalable solutions. M.Sc. Artificial Intelligence & Machine Learning student at **VIT Vellore**
 
-- 🤖 **AI Engineering** — LLMs, RAG Systems, Agentic AI, NLP
-- 📱 **Android App Development** — Native Android, Firebase, SQLite
-- ⚙️ **Full Stack Development** — FastAPI, Flask, REST APIs
-- 🔬 Published **2 IEEE Conference Papers** · 🏆 **Best Paper Award** recipient
-- 🌱 I enjoy building products from **0 → 1** and solving real-world problems
+- **AI Engineering** — LLMs, RAG Systems, Agentic AI, NLP
+- **Android App Development** — Native Android, Firebase, SQLite
+- **Full Stack Development** — FastAPI, Flask, REST APIs
+- patent: “Smartphone-Based Tomato Leaf Disease Detection and Localization System” has been officially published by the Indian Patent Office.
+- Published **2 IEEE Conference Papers** · 🏆 **Best Paper Award** recipient
+- I enjoy building products from **0 → 1** and solving real-world problems
 
 ---
 
