@@ -24,7 +24,7 @@ An AI Engineer with 2+ years of internship and research experience specializing 
 - **AI Engineering** — LLMs, RAG Systems, Agentic AI, NLP
 - **Android App Development** — Native Android, Firebase, SQLite
 - **Full Stack Development** — FastAPI, Flask, REST APIs
-- patent: “Smartphone-Based Tomato Leaf Disease Detection and Localization System” has been officially published by the Indian Patent Office.
+- Patent: **Smartphone-Based Tomato Leaf Disease Detection and Localization System** has been officially published by the Indian Patent Office.
 - Published **2 IEEE Conference Papers** · 🏆 **Best Paper Award** recipient
 - I enjoy building products from **0 → 1** and solving real-world problems
 
