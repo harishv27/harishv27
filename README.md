@@ -15,7 +15,7 @@ M.Sc. AI & ML, VIT Vellore · Tamil Nadu, India
 
 ## About
 
-I build AI products end to end: retrieval and models on the backend, and the web or mobile app on top. I have 2+ years of internship and research experience in generative AI, NLP and computer vision, and I like taking things from 0 to 1.
+I build AI products end to end: retrieval and models on the backend, and the web or mobile app on top. I have 1.5+ years of internship and research experience in generative AI, NLP and computer vision, and I like taking things from 0 to 1.
 
 - **Patent:** Smartphone-Based Tomato Leaf Disease Detection and Localization System, published by the Indian Patent Office
 - **Research:** 2 IEEE conference papers, including a Best Paper Award
@@ -50,10 +50,12 @@ I build AI products end to end: retrieval and models on the backend, and the web
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**InvestRight**](https://github.com/harishv27/investright) | Evidence-backed financial risk profiling with a retrieval-grounded AI advisor and capacity-aware recommendation guardrails | FastAPI, React, RAG |
+| [**InvestRight**](https://github.com/harishv27/investright) ([live](https://investright-tawny.vercel.app)) | Evidence-backed financial risk profiling with a retrieval-grounded AI advisor and capacity-aware recommendation guardrails | FastAPI, React, RAG |
+| [**AI Interview Coach**](https://github.com/harishv27/ai-interview-coach) ([live](https://ai-interview-coach-nine-plum.vercel.app)) | Mock interviews with rubric scoring, evidence-checked feedback and a CI evaluation harness (0.53 MAE vs human labels) | Node.js, Groq, GitHub Actions |
 | [**Multi-Modal Attendance System**](https://github.com/harishv27/multi-modal-attendance-system) | Biometric attendance using face, palm and fingerprint verification with score fusion | FastAPI, MySQL, React, MediaPipe |
 | [**Research Copilot**](https://github.com/harishv27/research-copilot) | Academic search that answers a question from peer-reviewed papers, with a consensus meter, citation graph and paper library | Python, LLMs |
 | [**DocMind RAG Chatbot**](https://github.com/harishv27/DocMind-RAG-chatbot-with-hybrid-search) | Document-only chatbot with hybrid search (BM25 + vectors), multi-query retrieval and page-level citations | FastAPI, OpenAI, BM25 |
+| [**Tomato Early Blight Detection**](https://github.com/harishv27/tomato-early-blight-detection) | Explainable leaf-disease web app with lesion overlay and Grad-CAM, related to my published patent | MobileNetV2 U-Net, Flask |
 | [**Lane Detection Robot**](https://github.com/harishv27/Lane-Line-Detection-Robot) | Lane and obstacle detection on a TurtleBot3 using YOLOv8s-seg and a custom dataset | YOLOv8, ROS |
 | [**GrocerGo**](https://github.com/harishv27/GrocerGo_Mini_Grocery_Delivery_App) | Blinkit-style grocery delivery Android app | Kotlin, MVVM, Room |
 
