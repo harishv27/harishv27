@@ -28,7 +28,7 @@ I build AI products end to end: retrieval and models on the backend, and the web
 |---|---|---|
 | **AI engineering** | RAG, hybrid search, agentic workflows, NLP | Python, LangChain, FAISS, PyTorch, TensorFlow, Hugging Face |
 | **Computer vision** | Detection, segmentation, biometrics, on-device ML | YOLOv8, OpenCV, MediaPipe |
-| **Mobile** | Native Android and Flutter, on-device inference | Kotlin, Java, Flutter, Firebase, Room |
+| **Mobile** | Native iOS and Android, Flutter, on-device inference | Swift, SwiftUI, Kotlin, Java, Flutter, Firebase, Room |
 | **Backend** | APIs, data stores, deployment | FastAPI, Flask, Node.js, MySQL, MongoDB, Docker, AWS |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -57,6 +57,11 @@ I build AI products end to end: retrieval and models on the backend, and the web
 | [**DocMind RAG Chatbot**](https://github.com/harishv27/DocMind-RAG-chatbot-with-hybrid-search) | Document-only chatbot with hybrid search (BM25 + vectors), multi-query retrieval and page-level citations | FastAPI, OpenAI, BM25 |
 | [**Tomato Early Blight Detection**](https://github.com/harishv27/tomato-early-blight-detection) | Explainable leaf-disease web app with lesion overlay and Grad-CAM, related to my published patent | MobileNetV2 U-Net, Flask |
 | [**Lane Detection Robot**](https://github.com/harishv27/Lane-Line-Detection-Robot) | Lane and obstacle detection on a TurtleBot3 using YOLOv8s-seg and a custom dataset | YOLOv8, ROS |
+| [**Roomie**](https://github.com/harishv27/roomie-ios) | Shared expense tracker for roommates with live sync and a settle-up algorithm | SwiftUI, Firebase |
+| [**Kept**](https://github.com/harishv27/Kept) | Habit tracker with an interactive widget, Siri support and schedule-aware streaks | SwiftUI, SwiftData, WidgetKit |
+| [**Tally**](https://github.com/harishv27/Tally) | Receipt scanner that reads store, date and total on the device | SwiftUI, Vision |
+| [**Roam**](https://github.com/harishv27/Roam) | Place explorer with a 7-day forecast, map and offline fallback | SwiftUI, MapKit, SwiftData |
+| [**Inkling**](https://github.com/harishv27/Inkling) | Private journal with on-device summaries, mood and tags | SwiftUI, Foundation Models |
 | [**GrocerGo**](https://github.com/harishv27/GrocerGo_Mini_Grocery_Delivery_App) | Blinkit-style grocery delivery Android app | Kotlin, MVVM, Room |
 
 ---
