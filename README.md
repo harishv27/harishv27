@@ -15,7 +15,7 @@ M.Sc. AI & ML, VIT Vellore · Tamil Nadu, India
 
 ## About
 
-I build AI products end to end: retrieval and models on the backend, and the web or mobile app on top. I have 1.5+ years of internship and research experience in generative AI, NLP and computer vision, and I like taking things from 0 to 1.
+I build AI products end to end: retrieval and models on the backend, and the web or mobile app on top. I have 2+ years of internship and research experience in generative AI, NLP and computer vision, and I like taking things from 0 to 1.
 
 - **Patent:** Smartphone-Based Tomato Leaf Disease Detection and Localization System, published by the Indian Patent Office
 - **Research:** 2 IEEE conference papers, including a Best Paper Award
