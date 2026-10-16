@@ -57,15 +57,6 @@ I build AI products end to end: retrieval and models on the backend, and the web
 | [**Tomato Early Blight Detection**](https://github.com/harishv27/tomato-early-blight-detection) | Leaf photo in, diagnosis with lesion overlay, Grad-CAM heatmap, severity band and treatment advice out (MobileNetV2 U-Net, Flask), related to my patent application |
 | **SwiftUI apps:** [Kept](https://github.com/harishv27/Kept) · [Inkling](https://github.com/harishv27/Inkling) · [Tally](https://github.com/harishv27/Tally) · [Roam](https://github.com/harishv27/Roam) | A habit tracker with an interactive widget and Siri, a journal with on-device AI summaries, a receipt scanner with Vision OCR, and a place explorer with offline fallback |
 
-**More:** [DocMind](https://github.com/harishv27/DocMind-RAG-chatbot-with-hybrid-search) (hybrid BM25 + vector RAG with page-level citations) · [Credit Approval System](https://github.com/harishv27/credit-approval-system) (Django REST, PostgreSQL, Celery, Docker) · [Cricket Technique Analyzer](https://github.com/harishv27/cricket-analytics) (pose-based batting analysis) · [Lane Detection Robot](https://github.com/harishv27/Lane-Line-Detection-Robot) (YOLOv8s-seg on a TurtleBot3) · [GrocerGo](https://github.com/harishv27/GrocerGo_Mini_Grocery_Delivery_App) (Android, Kotlin, MVVM)
-
----
-
-## Currently
-
-- Interning on mobile and backend AI work while finishing my M.Sc. in AI & ML
-- Adding CI and evaluation to my main repos (AI Interview Coach already runs both)
-
 ---
 
 <div align="center">
