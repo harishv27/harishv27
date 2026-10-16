@@ -15,7 +15,7 @@ M.Sc. AI & ML, VIT Vellore · Tamil Nadu, India
 
 ## About
 
-I build AI products end to end: retrieval and models on the backend, and the web or mobile app on top. I have 2+ years of internship and research experience across AI, backend and mobile: four internships, 30+ AI-powered applications, two IEEE conference papers and a published patent application. I like taking things from 0 to 1, and I report the numbers I measure, including where a project falls short.
+I build AI products end to end: retrieval and models on the backend, and the web or mobile app on top. I have 2+ years of internship and research experience across AI, backend and mobile: four internships, 30+ AI-powered applications, two IEEE conference papers and a published patent application. I like taking things from 0 to 1.
 
 - **Research:** 2 IEEE conference papers, one with a Best Paper Award
 - **Patent application (published):** Smartphone-Based Tomato Leaf Disease Detection and Localization System, Indian Patent Office, Application No. 202641068130
@@ -48,14 +48,14 @@ I build AI products end to end: retrieval and models on the backend, and the web
 
 ## Featured projects
 
-| Project | What it does | Evidence |
-|---|---|---|
-| [**InvestRight**](https://github.com/harishv27/investright) ([live](https://investright-tawny.vercel.app)) | Financial risk profiling that separates what an investor says they can tolerate from what their finances can absorb. A retrieval-grounded AI advisor sits on deterministic calculations, with OCR payslip extraction and an evidence ledger (FastAPI, React) | 36 pytest tests. 0 of 240 synthetic profiles disagree with an independent recompute. Backed by a research paper |
-| [**AI Interview Coach**](https://github.com/harishv27/ai-interview-coach) ([live](https://ai-interview-coach-nine-plum.vercel.app)) | Mock interviews with rubric scoring, evidence-checked feedback and a voice mode (Node.js, Groq) | 0.53 MAE against human labels, 97% within ±1, 10/10 failure-mode tests. Labels are 24 answers from one rater, and the repo says so. Tests run on every push, evaluation weekly |
-| [**Research Copilot**](https://github.com/harishv27/research-copilot) | Ask a research question and get a cited answer, a consensus meter and a citation graph from a 9-node LangGraph pipeline that searches 4 academic databases in parallel (FastAPI, ChromaDB) | Designed to answer in under 30 seconds |
-| [**Multi-Modal Attendance System**](https://github.com/harishv27/multi-modal-attendance-system) | Face (FaceNet), palm (MediaPipe) and fingerprint (WebAuthn) scores fused with configurable weights into one attendance decision (FastAPI, React, MySQL) | Per-modality thresholds and weights documented in the README |
-| [**Tomato Early Blight Detection**](https://github.com/harishv27/tomato-early-blight-detection) | Leaf photo in, diagnosis with lesion overlay, Grad-CAM heatmap, severity band and treatment advice out (MobileNetV2 U-Net, Flask), related to my patent application | 94.4% accuracy on 500 PlantVillage images. Field-photo accuracy is not yet measured, and the repo lists that limit |
-| **SwiftUI apps:** [Kept](https://github.com/harishv27/Kept) · [Inkling](https://github.com/harishv27/Inkling) · [Tally](https://github.com/harishv27/Tally) · [Roam](https://github.com/harishv27/Roam) | A habit tracker with an interactive widget and Siri, a journal with on-device AI summaries, a receipt scanner with Vision OCR, and a place explorer with offline fallback | 165 unit tests across the four, logic kept in tested Swift packages |
+| Project | What it does |
+|---|---|
+| [**InvestRight**](https://github.com/harishv27/investright) ([live](https://investright-tawny.vercel.app)) | Financial risk profiling that separates what an investor says they can tolerate from what their finances can absorb. A retrieval-grounded AI advisor sits on deterministic calculations, with OCR payslip extraction and an evidence ledger (FastAPI, React) |
+| [**AI Interview Coach**](https://github.com/harishv27/ai-interview-coach) ([live](https://ai-interview-coach-nine-plum.vercel.app)) | Mock interviews with rubric scoring, evidence-checked feedback and a voice mode (Node.js, Groq) |
+| [**Research Copilot**](https://github.com/harishv27/research-copilot) | Ask a research question and get a cited answer, a consensus meter and a citation graph from a 9-node LangGraph pipeline that searches 4 academic databases in parallel (FastAPI, ChromaDB) |
+| [**Multi-Modal Attendance System**](https://github.com/harishv27/multi-modal-attendance-system) | Face (FaceNet), palm (MediaPipe) and fingerprint (WebAuthn) scores fused with configurable weights into one attendance decision (FastAPI, React, MySQL) |
+| [**Tomato Early Blight Detection**](https://github.com/harishv27/tomato-early-blight-detection) | Leaf photo in, diagnosis with lesion overlay, Grad-CAM heatmap, severity band and treatment advice out (MobileNetV2 U-Net, Flask), related to my patent application |
+| **SwiftUI apps:** [Kept](https://github.com/harishv27/Kept) · [Inkling](https://github.com/harishv27/Inkling) · [Tally](https://github.com/harishv27/Tally) · [Roam](https://github.com/harishv27/Roam) | A habit tracker with an interactive widget and Siri, a journal with on-device AI summaries, a receipt scanner with Vision OCR, and a place explorer with offline fallback |
 
 **More:** [DocMind](https://github.com/harishv27/DocMind-RAG-chatbot-with-hybrid-search) (hybrid BM25 + vector RAG with page-level citations) · [Credit Approval System](https://github.com/harishv27/credit-approval-system) (Django REST, PostgreSQL, Celery, Docker) · [Cricket Technique Analyzer](https://github.com/harishv27/cricket-analytics) (pose-based batting analysis) · [Lane Detection Robot](https://github.com/harishv27/Lane-Line-Detection-Robot) (YOLOv8s-seg on a TurtleBot3) · [GrocerGo](https://github.com/harishv27/GrocerGo_Mini_Grocery_Delivery_App) (Android, Kotlin, MVVM)
 
