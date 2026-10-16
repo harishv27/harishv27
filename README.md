@@ -15,10 +15,10 @@ M.Sc. AI & ML, VIT Vellore · Tamil Nadu, India
 
 ## About
 
-I build AI products end to end: retrieval and models on the backend, and the web or mobile app on top. I have 2+ years of internship and research experience in generative AI, NLP and computer vision, and I like taking things from 0 to 1.
+I build AI products end to end: retrieval and models on the backend, and the web or mobile app on top. Four internships across AI, backend and mobile, two IEEE conference papers and a published patent application. I like taking things from 0 to 1, and I report the numbers I measure, including where a project falls short.
 
-- **Patent:** Smartphone-Based Tomato Leaf Disease Detection and Localization System, published by the Indian Patent Office
-- **Research:** 2 IEEE conference papers, including a Best Paper Award
+- **Research:** 2 IEEE conference papers, one with a Best Paper Award
+- **Patent application (published):** Smartphone-Based Tomato Leaf Disease Detection and Localization System, Indian Patent Office, Application No. 202641068130
 
 ---
 
@@ -26,10 +26,10 @@ I build AI products end to end: retrieval and models on the backend, and the web
 
 | Area | Focus | Tools |
 |---|---|---|
-| **AI engineering** | RAG, hybrid search, agentic workflows, NLP | Python, LangChain, FAISS, PyTorch, TensorFlow, Hugging Face |
+| **AI engineering** | RAG, hybrid search, agentic workflows, NLP | Python, LangChain, LangGraph, FAISS, PyTorch, TensorFlow, Hugging Face |
 | **Computer vision** | Detection, segmentation, biometrics, on-device ML | YOLOv8, OpenCV, MediaPipe |
 | **Mobile** | Native iOS and Android, Flutter, on-device inference | Swift, SwiftUI, Kotlin, Java, Flutter, Firebase, Room |
-| **Backend** | APIs, data stores, deployment | FastAPI, Flask, Node.js, MySQL, MongoDB, Docker, AWS |
+| **Backend** | APIs, data stores, deployment | FastAPI, Flask, Django REST, Node.js, MySQL, PostgreSQL, MongoDB, Docker, AWS |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -48,34 +48,28 @@ I build AI products end to end: retrieval and models on the backend, and the web
 
 ## Featured projects
 
-| Project | What it does | Stack |
+| Project | What it does | Evidence |
 |---|---|---|
-| [**InvestRight**](https://github.com/harishv27/investright) ([live](https://investright-tawny.vercel.app)) | Evidence-backed financial risk profiling with a retrieval-grounded AI advisor and capacity-aware recommendation guardrails | FastAPI, React, RAG |
-| [**AI Interview Coach**](https://github.com/harishv27/ai-interview-coach) ([live](https://ai-interview-coach-nine-plum.vercel.app)) | Mock interviews with rubric scoring, evidence-checked feedback and a CI evaluation harness (0.53 MAE vs human labels) | Node.js, Groq, GitHub Actions |
-| [**Multi-Modal Attendance System**](https://github.com/harishv27/multi-modal-attendance-system) | Biometric attendance using face, palm and fingerprint verification with score fusion | FastAPI, MySQL, React, MediaPipe |
-| [**Research Copilot**](https://github.com/harishv27/research-copilot) | Academic search that answers a question from peer-reviewed papers, with a consensus meter, citation graph and paper library | Python, LLMs |
-| [**DocMind RAG Chatbot**](https://github.com/harishv27/DocMind-RAG-chatbot-with-hybrid-search) | Document-only chatbot with hybrid search (BM25 + vectors), multi-query retrieval and page-level citations | FastAPI, OpenAI, BM25 |
-| [**Tomato Early Blight Detection**](https://github.com/harishv27/tomato-early-blight-detection) | Explainable leaf-disease web app with lesion overlay and Grad-CAM, related to my published patent | MobileNetV2 U-Net, Flask |
-| [**Lane Detection Robot**](https://github.com/harishv27/Lane-Line-Detection-Robot) | Lane and obstacle detection on a TurtleBot3 using YOLOv8s-seg and a custom dataset | YOLOv8, ROS |
-| [**Roomie**](https://github.com/harishv27/roomie-ios) | Shared expense tracker for roommates with live sync and a settle-up algorithm | SwiftUI, Firebase |
-| [**Kept**](https://github.com/harishv27/Kept) | Habit tracker with an interactive widget, Siri support and schedule-aware streaks | SwiftUI, SwiftData, WidgetKit |
-| [**Tally**](https://github.com/harishv27/Tally) | Receipt scanner that reads store, date and total on the device | SwiftUI, Vision |
-| [**Roam**](https://github.com/harishv27/Roam) | Place explorer with a 7-day forecast, map and offline fallback | SwiftUI, MapKit, SwiftData |
-| [**Inkling**](https://github.com/harishv27/Inkling) | Private journal with on-device summaries, mood and tags | SwiftUI, Foundation Models |
-| [**GrocerGo**](https://github.com/harishv27/GrocerGo_Mini_Grocery_Delivery_App) | Blinkit-style grocery delivery Android app | Kotlin, MVVM, Room |
+| [**InvestRight**](https://github.com/harishv27/investright) ([live](https://investright-tawny.vercel.app)) | Financial risk profiling that separates what an investor says they can tolerate from what their finances can absorb. A retrieval-grounded AI advisor sits on deterministic calculations, with OCR payslip extraction and an evidence ledger (FastAPI, React) | 36 pytest tests. 0 of 240 synthetic profiles disagree with an independent recompute. Backed by a research paper |
+| [**AI Interview Coach**](https://github.com/harishv27/ai-interview-coach) ([live](https://ai-interview-coach-nine-plum.vercel.app)) | Mock interviews with rubric scoring, evidence-checked feedback and a voice mode (Node.js, Groq) | 0.53 MAE against human labels, 97% within ±1, 10/10 failure-mode tests. Labels are 24 answers from one rater, and the repo says so. Tests run on every push, evaluation weekly |
+| [**Research Copilot**](https://github.com/harishv27/research-copilot) | Ask a research question and get a cited answer, a consensus meter and a citation graph from a 9-node LangGraph pipeline that searches 4 academic databases in parallel (FastAPI, ChromaDB) | Designed to answer in under 30 seconds |
+| [**Multi-Modal Attendance System**](https://github.com/harishv27/multi-modal-attendance-system) | Face (FaceNet), palm (MediaPipe) and fingerprint (WebAuthn) scores fused with configurable weights into one attendance decision (FastAPI, React, MySQL) | Per-modality thresholds and weights documented in the README |
+| [**Tomato Early Blight Detection**](https://github.com/harishv27/tomato-early-blight-detection) | Leaf photo in, diagnosis with lesion overlay, Grad-CAM heatmap, severity band and treatment advice out (MobileNetV2 U-Net, Flask), related to my patent application | 94.4% accuracy on 500 PlantVillage images. Field-photo accuracy is not yet measured, and the repo lists that limit |
+| **SwiftUI apps:** [Kept](https://github.com/harishv27/Kept) · [Inkling](https://github.com/harishv27/Inkling) · [Tally](https://github.com/harishv27/Tally) · [Roam](https://github.com/harishv27/Roam) | A habit tracker with an interactive widget and Siri, a journal with on-device AI summaries, a receipt scanner with Vision OCR, and a place explorer with offline fallback | 165 unit tests across the four, logic kept in tested Swift packages |
+
+**More:** [DocMind](https://github.com/harishv27/DocMind-RAG-chatbot-with-hybrid-search) (hybrid BM25 + vector RAG with page-level citations) · [Credit Approval System](https://github.com/harishv27/credit-approval-system) (Django REST, PostgreSQL, Celery, Docker) · [Cricket Technique Analyzer](https://github.com/harishv27/cricket-analytics) (pose-based batting analysis) · [Lane Detection Robot](https://github.com/harishv27/Lane-Line-Detection-Robot) (YOLOv8s-seg on a TurtleBot3) · [GrocerGo](https://github.com/harishv27/GrocerGo_Mini_Grocery_Delivery_App) (Android, Kotlin, MVVM)
 
 ---
 
 ## Currently
 
-- Building retrieval-grounded AI systems and agents
-- Shipping a native iOS app with an on-device ML pipeline
-- Tightening engineering practice on my main repos: tests, CI and evaluation metrics
+- Interning on mobile and backend AI work while finishing my M.Sc. in AI & ML
+- Adding CI and evaluation to my main repos (AI Interview Coach already runs both)
 
 ---
 
 <div align="center">
 
-Open to AI engineering and mobile roles · [harishvelayutham.in@gmail.com](mailto:harishvelayutham.in@gmail.com)
+Open to AI engineering and mobile roles · [harishvelayutham.in@gmail.com](mailto:harishvelayutham.in@gmail.com) · [Portfolio](https://harishvelayutham.vercel.app/)
 
 </div>
