@@ -15,7 +15,7 @@ M.Sc. AI & ML, VIT Vellore · Tamil Nadu, India
 
 ## About
 
-I build AI products end to end: retrieval and models on the backend, and the web or mobile app on top. Four internships across AI, backend and mobile, two IEEE conference papers and a published patent application. I like taking things from 0 to 1, and I report the numbers I measure, including where a project falls short.
+I build AI products end to end: retrieval and models on the backend, and the web or mobile app on top. I have 2+ years of internship and research experience across AI, backend and mobile: four internships, 30+ AI-powered applications, two IEEE conference papers and a published patent application. I like taking things from 0 to 1, and I report the numbers I measure, including where a project falls short.
 
 - **Research:** 2 IEEE conference papers, one with a Best Paper Award
 - **Patent application (published):** Smartphone-Based Tomato Leaf Disease Detection and Localization System, Indian Patent Office, Application No. 202641068130
