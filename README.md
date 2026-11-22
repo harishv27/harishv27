@@ -72,6 +72,14 @@ I build intelligent apps, from model to mobile: retrieval and models on the back
 
 ---
 
+## Open source
+
+| Project | Contribution |
+|---|---|
+| [**Atrium**](https://github.com/robstoll/atrium) (Kotlin assertion library) | Migrated `ThirdPartyExpectationsSpec` from Spek to kotlin-test, which also runs it on JS. [PR #2249](https://github.com/robstoll/atrium/pull/2249), merged |
+
+---
+
 <div align="center">
 
 Open to freelance projects, internships and full-time roles · [harishvelayutham.in@gmail.com](mailto:harishvelayutham.in@gmail.com) · [Portfolio](https://harishvelayutham.vercel.app/)
